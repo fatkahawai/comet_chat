@@ -1,0 +1,15 @@
+# Compiled files #
+###################
+*.app
+
+# Other non-source files
+###################
+*.zip
+*.tar
+*.log
+*.sql
+.DS_Store
+
+# 3rd party library files
+###################
+jquery*
